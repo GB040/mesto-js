@@ -38,7 +38,7 @@
 .card__trash_show{display:block}
 .card__container{align-items:center;background-color:#fff;border-radius:0 0 10px 10px;display:flex;height:79px;justify-content:space-between;padding:0 21px}
 .card__title{color:#000;font-size:24px;font-weight:900;line-height:29px;margin:0;max-width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.card__like{background-color:transparent;border:0;height:18px;padding:0;width:21px}.card__like:hover{cursor:pointer;opacity:.6;transition:opacity .2s linear}.card__like:focus{outline:none}
+.card__like{background-color:transparent;background-repeat:no-repeat;border:0;height:18px;padding:0;width:22px}.card__like:hover{cursor:pointer;opacity:.6;transition:opacity .2s linear}.card__like:focus{outline:none}
 .card__like_inactive{background-image:url(85cf497b3d09fb55aafa.svg)}
 .card__like_active{background-image:url(e787eeb70bb65b7b453a.svg)}
 .card__like-quantity{bottom:12px;color:#000;font-size:13px;line-height:16px;margin:0;position:absolute;right:28px}
